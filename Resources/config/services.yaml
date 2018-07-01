@@ -1,0 +1,8 @@
+parameters:
+
+services:
+
+  Symfony\Bundle\CustomBundle\Component\CustomService:
+    arguments:
+      $url: '%url%'
+
