@@ -7,7 +7,7 @@ use Symfony\Component\Config\Definition\ConfigurationInterface;
 
 /**
  * Class Configuration
- * @package BoxedCode\Symfony\Bundle\MediaBundle\DependencyInjection
+ * @package Symfony\Bundle\CustomBundle\DependencyInjection
  */
 class Configuration implements ConfigurationInterface
 {
